@@ -8,16 +8,20 @@
 ### 🛠️ **Tech Stack**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+
 
 ### 🌟 **Pinned Repos**  
 [Link to 6 best repos using GitHub’s "Pin" feature]  
 
 ### 📊 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username)  
 
 ### 📫 **Connect**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)  <!--
+[LinkedIn](https://linkedin.com/in/charles-makokha)  <!--
 **carsonforbe/carsonforbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
