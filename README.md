@@ -2,8 +2,13 @@
 
 ### 🔭 **About Me**  
 - Back-end Developer at SpaceYaTech  
-- Currently learning: C  
-- Fun fact: i love anything related to tech development  
+- Fun fact: i love anything related to tech development
+- 🔭 I’m currently working to create An expence Tracker
+- 🌱 I’m currently learning Authorization and Authentication
+- 👯 I’m looking to collaborate on any Backed project
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact:i love anything related to tech development
+
 
 ### 🛠️ **Tech Stack**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  
@@ -21,17 +26,4 @@
 ### 📊 **GitHub Stats**  
 
 ### 📫 **Connect**  
-[LinkedIn](https://linkedin.com/in/charles-makokha)  <!--
-**carsonforbe/carsonforbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/charles-makokha)
