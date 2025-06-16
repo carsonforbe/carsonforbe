@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Charles Makokha 👋  
 
 ### 🔭 **About Me**  
 - Back-end Developer at SpaceYaTech  
