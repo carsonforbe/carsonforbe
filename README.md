@@ -26,6 +26,8 @@ https://github.com/carsonforbe/Weather_app
 ### 📊 **GitHub Stats**  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=carsonforbe)](https://git.io/streak-stats)
 ![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carsonforbe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonforbe&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carsonforbe&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ### 📫 **Connect**  
 [LinkedIn](https://linkedin.com/in/charles-makokha)
