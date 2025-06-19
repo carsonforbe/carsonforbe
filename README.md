@@ -13,12 +13,10 @@
 ### 🌟 **Pinned Repos**  
 https://github.com/carsonforbe/Weather_app  
 
-### 📊 **GitHub Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonforbe)](https://git.io/streak-stats)
+### 📊 **GitHub Stats** 
 
-
-![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carsonforbe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonforbe&layout=compact&theme=radical)
+![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carsonforbe&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonforbe&layout=compact&theme=dracula)
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carsonforbe&theme=dracula&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -39,11 +37,6 @@ https://github.com/carsonforbe/Weather_app
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
-
-
-**streaks**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carsonforbe&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 
 ### 📫 **Connect**  
 [LinkedIn](https://linkedin.com/in/charles-makokha)
