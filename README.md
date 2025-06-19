@@ -1,4 +1,4 @@
-# Hi, I'm Charles Makokha 👋  
+# Hi, I'm Charles Fortunatius Makokha 👋  
 
 ### 🔭 **About Me**  
 - Back-end Developer at SpaceYaTech  
