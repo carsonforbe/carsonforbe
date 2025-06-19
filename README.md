@@ -10,8 +10,12 @@
 - ⚡ Fun fact:i love anything related to tech development
 
 
-### 🌟 **Pinned Repos**  
-https://github.com/carsonforbe/Weather_app  
+### 📌 Pinned Projects
+
+- [💰 Sales Tracker](https://github.com/carsonforbe/SalesTracker) – JavaScript Web App that tracks Sales Made and records then in a json file.
+- [📱 Gas Delivery](https://github.com/carsonforbe/infinity) – React App that places orders via whatsapp.
+- [🧮 Weather App](https://github.com/carsonforbe/Weather_app) – A simple JavaScript and python Weather Web App.
+
 
 ### 📊 **GitHub Stats** 
 
