@@ -4,7 +4,6 @@
 - Back-end Developer at SpaceYaTech  
 - Fun fact: i love anything related to tech development
 - 🔭 I’m currently working to create An expence Tracker
-- 🌱 I’m currently learning Authorization and Authentication
 - 👯 I’m looking to collaborate on any Backed project
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:i love anything related to tech development
