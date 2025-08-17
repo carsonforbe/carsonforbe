@@ -78,4 +78,4 @@ Architecting a **rent automation platform** with:
 ---
 
 ## 🤝 Let’s Connect  
-🔗 [LinkedIn](https://linkedin.com/) | 🐙 [GitHub](https://github.com/carsonforbe) | 📧 [Email](mailto:carsonforbe@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHw1DJH82SQogAAAZi5OYegrTxDD4De10re3rhFneq-cO9OQNxkZhYos3S_NPpvKAKu9VplPqC_3XZaYa4QYdGFAviinZ328Egxs9QCD3Ah6Xjhjg2XlzI-FmOjlWvsdQVoOp8=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcharles-makokha-a31a20368%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) | 🐙 [GitHub](https://github.com/carsonforbe) | 📧 [Email](mailto:carsonforbe@gmail.com)  
