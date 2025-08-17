@@ -1,34 +1,81 @@
-Hi, I'm Charles Fortunatius Makokha  About MeI’m a passionate Backend Team Lead and Full-Stack Developer with a proven track record of building scalable, secure, and user-focused solutions. I specialize in designing robust backend systems and integrating seamless payment and communication APIs to solve real-world challenges.  Currently leading backend development at AkibaPamoja, delivering a community savings platform with M-Pesa integration for seamless financial transactions.  
-Developed Casapay, a rent automation and property management system streamlining tenant-landlord interactions.  
-Contributed to high-impact projects like GasExpress (gas delivery app) and Property Rental App (rental management system).  
-Actively building an Expense Tracker to enhance personal finance management.  
- Passionate about creating innovative tech solutions with tangible impact.  
- Open to collaborating on backend, full-stack, or fintech projects.  
- Pronouns: He/Him
+# 👋 Hi, I'm Charles Fortunatius Makokha  
 
- Key Projects AkibaPamoja
-Led development of a Django-based community savings platform, integrating M-Pesa for secure payments, group management, and real-time contribution tracking, enabling accessible financial services for communities.  
- Casapay (https://)
-Architected a rent automation platform with property listings, tenant management, automated reminders, and integrated payment gateways, improving operational efficiency for property managers (private repository).  
- GasExpress
-Built a React + Django application for gas delivery with Google Maps integration for real-time tracking and role-based order management, enhancing user experience and delivery efficiency.  
- Property Rental App (https)
-Developed a rental property management system with landlord/tenant dashboards, image uploads, and multiple payment options, streamlining property management workflows.  
- Weather App
-Created a Python + JavaScript app to fetch and display real-time weather data, demonstrating API integration and responsive design.  
- WhatsApp Delivery Bot
-Engineered a Python-based automation tool leveraging the WhatsApp API to manage and track delivery orders, improving customer engagement.  
- Sales Tracker
-Developed a JavaScript web app for recording and analyzing sales data, stored in JSON, to support small business operations.
+## 🌟 About Me  
+💻 Passionate **Backend Team Lead** & **Full-Stack Developer** with a proven track record of building scalable, secure, and user-focused solutions.  
+🔧 Specialized in designing robust backend systems & integrating seamless **payment** and **communication APIs** to solve real-world challenges.  
+🚀 Currently working on **Casapay**, a rent automation & property management system streamlining tenant-landlord interactions.  
 
- GitHub StatsCharles's GitHub Stats
-Top Languages   Achievements![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=carsonforbe&theme=dracula&margin-w=15&margin-h=15)   Contribution Activity![Charles's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=carsonforbe&theme=radical)   Technologies & ToolsPython
-Django
-JavaScript
-HTML5
-CSS3
-PostgreSQL
-MongoDB
-Docker
-Git   Let’s ConnectLinkedIn | GitHub | Email (mailto:your.email@example.com)  
+✨ Previously led backend development at **AkibaPamoja**, a community savings platform with **M-Pesa integration** for seamless financial transactions.  
+💡 Contributed to impactful projects like **GasExpress (gas delivery app)** and **Property Rental App**.  
+📊 Actively building side projects like an **Expense Tracker** & **Sales Tracker** to enhance personal finance & small business management.  
 
+💡 Passionate about creating **innovative tech solutions** with tangible impact.  
+🤝 Open to collaborating on **backend, fintech, or full-stack projects**.  
+🙋 Pronouns: **He/Him**  
+
+---
+
+## 🔑 Key Projects  
+
+### 🏠 Casapay *(Current Focus)*  
+Architecting a **rent automation platform** with:  
+- 🏢 Property listings & tenant management  
+- ⏰ Automated reminders & notifications  
+- 💳 Integrated payment gateways (M-Pesa, PayPal, Bank)  
+- 📈 Streamlined landlord operations  
+*(Private repository)*  
+
+### 🌍 AkibaPamoja  
+- Django-based **community savings platform**  
+- Integrated **M-Pesa** for secure payments  
+- 👥 Group management & role-based access  
+- 📊 Real-time contribution tracking  
+- 🎯 Empowering financial inclusion in communities  
+
+### ⛽ GasExpress  
+- React + Django application for **gas delivery**  
+- 🗺️ Google Maps integration for real-time tracking  
+- 👨‍👩‍👦 Role-based order management  
+- 🚚 Improved delivery efficiency & user experience  
+
+### 🏘️ Property Rental App  
+- Landlord & tenant dashboards  
+- 🖼️ Image uploads & amenities support  
+- 💰 Multiple payment options (Mpesa, Airtel, PayPal, Bank)  
+- ⚡ Streamlined property management workflows  
+
+### 🌦️ Weather App  
+- Python + JavaScript  
+- 🌍 Real-time weather data via API integration  
+- 📱 Responsive design  
+
+### 💬 WhatsApp Delivery Bot  
+- Python-based automation tool  
+- 📦 Manage & track delivery orders  
+- 🤝 Improved customer engagement  
+
+### 📊 Sales Tracker  
+- JavaScript web app  
+- 🗂️ Record & analyze sales data  
+- 📑 JSON storage to support small business operations  
+
+---
+
+## 📊 GitHub Stats  
+
+### 🏆 Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=carsonforbe&theme=dracula&margin-w=15&margin-h=15)  
+
+### 🔥 Contribution Activity  
+![Charles's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=carsonforbe&theme=radical)  
+
+---
+
+## ⚙️ Technologies & Tools  
+🐍 Python | 🌐 Django | ⚡ JavaScript | 🎨 HTML5 | 🎭 CSS3  
+🗄️ PostgreSQL | 🍃 MongoDB | 🐳 Docker | 🔧 Git  
+
+---
+
+## 🤝 Let’s Connect  
+🔗 [LinkedIn](https://linkedin.com/) | 🐙 [GitHub](https://github.com/carsonforbe) | 📧 [Email](mailto:carsonforbe@gmail.com)  
